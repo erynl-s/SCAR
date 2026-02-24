@@ -35,7 +35,7 @@ Regions-of-intered are defined by SynthSeg segmentations and mask outputs.
 
 Example shell script for generating PCA models in `example_pca.sh`.
 
-### Dataset generatio
+### Dataset generation
 Subject variability is represented by morphological variation introduced to a template image (we use the SRI24 atlas). Causal effects are represented by increasing or decreasing a target roi's volume as specified by the user defined SCM. Generating synthetic datasets requires the following files: 
 ```bash
 ├── generate_data
