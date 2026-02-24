@@ -1,8 +1,10 @@
 <div align="center">
   
 # Simulated CAsual Representations in medical images (SCAR)
+<img width="947" height="707" alt="image" src="https://github.com/user-attachments/assets/e5bf95b7-a5dd-4691-bfb5-cfcfdfbc41ad" />
 
-</div>
+</div >
+
 </p>
 
 ### Abstract 
